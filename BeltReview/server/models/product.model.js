@@ -18,7 +18,7 @@ const ProductSchema = new mongoose.Schema(
     },
     isDesigner: {
         type: Boolean
-    }
+    }, 
 }, { timestamps: true });
 
 
